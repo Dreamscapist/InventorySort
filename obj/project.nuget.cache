@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ydmfXb/NCXE=",
+  "dgSpecHash": "Kg96taSnYpk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\vesap\\Downloads\\InventorySort (2)\\InventorySort\\InventorySort.csproj",
+  "projectFilePath": "C:\\Users\\vesap\\Documents\\GitHub\\InventorySort\\InventorySort.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vesap\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512"
   ],
