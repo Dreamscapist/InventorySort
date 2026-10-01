@@ -1,0 +1,11 @@
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\bin\Release\netstandard2.1\InventorySort.deps.json
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\bin\Release\netstandard2.1\InventorySort.dll
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\bin\Release\netstandard2.1\InventorySort.pdb
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.csproj.AssemblyReference.cache
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.IgnoresAccessChecksTo.cs
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.AssemblyInfoInputs.cache
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.AssemblyInfo.cs
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.csproj.CoreCompileInputs.cache
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.dll
+C:\Users\vesap\Downloads\InventorySort (2)\InventorySort\obj\Release\netstandard2.1\InventorySort.pdb
